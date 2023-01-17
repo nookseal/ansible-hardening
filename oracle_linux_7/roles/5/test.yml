@@ -1,0 +1,4 @@
+---
+- name: test
+  shell: hostname
+  register: print_host
